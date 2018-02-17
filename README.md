@@ -1,6 +1,8 @@
 # Bangpypers
 Lists all talks I gave in a meetup group called Bangpypers  and their contents
 
+Important ML/DL links - https://github.com/shrishty/Bangpypers/blob/master/Regression/README.md
+
 ## Linear Regression
 
 I covered following topics in the talk
